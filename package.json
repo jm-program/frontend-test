@@ -1,0 +1,15 @@
+{
+  "name": "frontend-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.test.js",
+  "scripts": {
+    "test": "jest \"./calculator.test.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
